@@ -27,7 +27,6 @@ h1{
 h2{
   margin: 0 0;
   font-size: 2em;
-  text-shadow: 2px 2px 0 #7A7A7A;
 }
 
 
@@ -53,4 +52,13 @@ nav{
 
 #logo-academy{
   height: 60px;
+}
+
+#generador{
+  color: white;
+}
+
+#meme-imagen{
+  display: none;
+  margin: 0 auto;
 }
