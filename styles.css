@@ -61,4 +61,5 @@ nav{
 #meme-imagen{
   display: none;
   margin: 0 auto;
+  max-width: 80vw;
 }
